@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+#photo-heading{
+	text-align: center;
+}
+
+.image{
+	width: 200px;
+	height: 150px;
+	border-radius: 15px;
+}
